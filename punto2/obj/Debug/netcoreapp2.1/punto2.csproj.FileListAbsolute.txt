@@ -1,0 +1,11 @@
+C:\Users\Mariano\source\repos\TP6_solucion\punto2\bin\Debug\netcoreapp2.1\punto2.deps.json
+C:\Users\Mariano\source\repos\TP6_solucion\punto2\bin\Debug\netcoreapp2.1\punto2.runtimeconfig.json
+C:\Users\Mariano\source\repos\TP6_solucion\punto2\bin\Debug\netcoreapp2.1\punto2.runtimeconfig.dev.json
+C:\Users\Mariano\source\repos\TP6_solucion\punto2\bin\Debug\netcoreapp2.1\punto2.dll
+C:\Users\Mariano\source\repos\TP6_solucion\punto2\bin\Debug\netcoreapp2.1\punto2.pdb
+C:\Users\Mariano\source\repos\TP6_solucion\punto2\obj\Debug\netcoreapp2.1\punto2.csproj.CoreCompileInputs.cache
+C:\Users\Mariano\source\repos\TP6_solucion\punto2\obj\Debug\netcoreapp2.1\punto2.AssemblyInfoInputs.cache
+C:\Users\Mariano\source\repos\TP6_solucion\punto2\obj\Debug\netcoreapp2.1\punto2.AssemblyInfo.cs
+C:\Users\Mariano\source\repos\TP6_solucion\punto2\obj\Debug\netcoreapp2.1\punto2.dll
+C:\Users\Mariano\source\repos\TP6_solucion\punto2\obj\Debug\netcoreapp2.1\punto2.pdb
+C:\Users\Mariano\source\repos\TP6_solucion\punto2\obj\Debug\netcoreapp2.1\punto2.csprojAssemblyReference.cache

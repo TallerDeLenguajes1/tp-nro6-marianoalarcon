@@ -1,0 +1,11 @@
+C:\Users\Mariano\source\repos\TP6_solucion\Punto3\bin\Debug\netcoreapp2.1\Punto3.deps.json
+C:\Users\Mariano\source\repos\TP6_solucion\Punto3\bin\Debug\netcoreapp2.1\Punto3.runtimeconfig.json
+C:\Users\Mariano\source\repos\TP6_solucion\Punto3\bin\Debug\netcoreapp2.1\Punto3.runtimeconfig.dev.json
+C:\Users\Mariano\source\repos\TP6_solucion\Punto3\bin\Debug\netcoreapp2.1\Punto3.dll
+C:\Users\Mariano\source\repos\TP6_solucion\Punto3\bin\Debug\netcoreapp2.1\Punto3.pdb
+C:\Users\Mariano\source\repos\TP6_solucion\Punto3\obj\Debug\netcoreapp2.1\Punto3.csproj.CoreCompileInputs.cache
+C:\Users\Mariano\source\repos\TP6_solucion\Punto3\obj\Debug\netcoreapp2.1\Punto3.AssemblyInfoInputs.cache
+C:\Users\Mariano\source\repos\TP6_solucion\Punto3\obj\Debug\netcoreapp2.1\Punto3.AssemblyInfo.cs
+C:\Users\Mariano\source\repos\TP6_solucion\Punto3\obj\Debug\netcoreapp2.1\Punto3.dll
+C:\Users\Mariano\source\repos\TP6_solucion\Punto3\obj\Debug\netcoreapp2.1\Punto3.pdb
+C:\Users\Mariano\source\repos\TP6_solucion\Punto3\obj\Debug\netcoreapp2.1\Punto3.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Mariano\source\repos\TP6_solucion\TP6_consola\bin\Debug\netcoreapp2.1\TP6_consola.deps.json
+C:\Users\Mariano\source\repos\TP6_solucion\TP6_consola\bin\Debug\netcoreapp2.1\TP6_consola.runtimeconfig.json
+C:\Users\Mariano\source\repos\TP6_solucion\TP6_consola\bin\Debug\netcoreapp2.1\TP6_consola.runtimeconfig.dev.json
+C:\Users\Mariano\source\repos\TP6_solucion\TP6_consola\bin\Debug\netcoreapp2.1\TP6_consola.dll
+C:\Users\Mariano\source\repos\TP6_solucion\TP6_consola\bin\Debug\netcoreapp2.1\TP6_consola.pdb
+C:\Users\Mariano\source\repos\TP6_solucion\TP6_consola\obj\Debug\netcoreapp2.1\TP6_consola.csprojAssemblyReference.cache
+C:\Users\Mariano\source\repos\TP6_solucion\TP6_consola\obj\Debug\netcoreapp2.1\TP6_consola.csproj.CoreCompileInputs.cache
+C:\Users\Mariano\source\repos\TP6_solucion\TP6_consola\obj\Debug\netcoreapp2.1\TP6_consola.AssemblyInfoInputs.cache
+C:\Users\Mariano\source\repos\TP6_solucion\TP6_consola\obj\Debug\netcoreapp2.1\TP6_consola.AssemblyInfo.cs
+C:\Users\Mariano\source\repos\TP6_solucion\TP6_consola\obj\Debug\netcoreapp2.1\TP6_consola.dll
+C:\Users\Mariano\source\repos\TP6_solucion\TP6_consola\obj\Debug\netcoreapp2.1\TP6_consola.pdb
